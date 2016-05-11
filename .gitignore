@@ -3,3 +3,8 @@
 *.logicx/Alternatives/*/Project File Backups/
 *.logicx/Alternatives/*/Undo Data.nosync/
 *.logicx/Alternatives/*/WindowImage.jpg
+
+# garageband optional files
+*.band/Alternatives/*/Autosave/
+*.band/Alternatives/*/WindowImage.jpg
+*.band/Alternatives/*/Undo Data.nosync/
