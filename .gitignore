@@ -1,0 +1,5 @@
+# logic optional files
+*.logicx/Alternatives/*/Autosave/
+*.logicx/Alternatives/*/Project File Backups/
+*.logicx/Alternatives/*/Undo Data.nosync/
+*.logicx/Alternatives/*/WindowImage.jpg
